@@ -10,7 +10,7 @@ namespace CSharpPayroll
     {
         static void Main(string[] args)
         {
-             PayRollApp pr = new PayRollApp();
+            PayRollApp pr = new PayRollApp();
             pr.GeneratePayRoll();
             Console.ReadLine();
         }
